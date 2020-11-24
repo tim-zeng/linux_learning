@@ -12,7 +12,7 @@
 
 
 
-![](C:\Users\tim.zeng\Desktop\linux学习文件\linux学习image\vim\实例一\行号显示.png)
+![](\linux学习文件\linux学习image\vim\实例一\行号显示.png)
 
 
 
