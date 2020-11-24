@@ -20,7 +20,7 @@
 
 
 
-![image-20201123112744805](C:\Users\tim.zeng\Desktop\linux学习文件\linux学习image\vim\实例二\移动光标2.png)
+![image-20201123112744805](linux学习文件\linux学习image\vim\实例二\移动光标2.png)
 
 
 
