@@ -12,7 +12,7 @@
 
 
 
-![行号显示](linux学习文件/linux学习image/vim/实例一/行号显示.png)
+![行号显示](linux学习image/vim/实例一/行号显示.png)
 
 
 
